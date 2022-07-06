@@ -21,5 +21,3 @@ the main folders is in src/main/
 
 If you want to start the app, you have to type Run in  src/main/java/Task/DemoApplication.java.
 
-
-Happy tasks list :)
